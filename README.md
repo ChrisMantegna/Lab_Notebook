@@ -6,7 +6,18 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 5
+
+The first meeting of my STEM Teaching Pedegogy course was today and I am excited to develop a teaching statement/ evidence-based philosophy. Other work today focused on fleshing out some grant proposal ideas to bring to the table for my conversations with BIMS and then during Science Hour tomorrow. I believe I have three opportunities to write for interesting grants that could further work in the Yellow Island project and build on work with the WDFW Mussel project.
+
+---
+### January 4
+
+Two main activities today, first was more Lab Notebook work and second was my meeting with Jose. Most of my lab notebook work was taking inventory of where I wanted to tweak my site and what needs to be cleaned up. It is definitely a slow process but at least the site is up and I've been posting regularly. Second, I started my monthly meeting with Jose to rebuild the 'curriculum' for the summer Yellow Island program. I'm working on building something more structured than last summer becasue I'll have REU student(s) as well.
+
+---
 ### January 3
+
 Academic work was less rigorous due to the first day back to campus for classes as well as our housing communities. I had a heavy HFS workload but managed to accomplish a few small tasks. Through my HFS colleagues I secured a potential partnership with the DXARTS Maker space to help me flesh out a possible grant writing opportunity. Outside of HFS, today was day one of the SICB 2023 Conference. I signed up for SICB+, the virtual platform and watched tonight's plenary speaker, Dr. Beronda Montgomery. She is a plant scientist, a writer, a mentor, and in the leadership at Grinell College. Most notably for me - she spoke to how we change the environments where we are, how we thrive in community and with collaborations, and how we must start critically interrogating our environments not just (or only) the sole actors who do not conform to it. I also added two papers to my current WDFW mussel lit review that were skimmed and tagged for in-depth reading.
 
 ---

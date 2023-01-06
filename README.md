@@ -6,6 +6,11 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 6
+
+I started my morning with a meeting with Miranda Bernard, BIMS grant writer. BIMS will be my community partner for my Innovation Grant Application. next I attended our labs science hour so I can get some advice on the innovation grant, as well as the Hall conservation grant application I'd like to submit. After that, we spend some time learning how to make daily posts & commits to our lab notebooks an easier practice. I am now voice dictating my post for the day. Thanks to Steven's beta test of some new tech. 🎉 Exciting!
+
+---
 ### January 5
 
 The first meeting of my STEM Teaching Pedegogy course was today and I am excited to develop a teaching statement/ evidence-based philosophy. Other work today focused on fleshing out some grant proposal ideas to bring to the table for my conversations with BIMS and then during Science Hour tomorrow. I believe I have three opportunities to write for interesting grants that could further work in the Yellow Island project and build on work with the WDFW Mussel project.

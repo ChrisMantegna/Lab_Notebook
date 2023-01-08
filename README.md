@@ -6,6 +6,11 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 7
+
+Reading was the name of the game today, specifically the WDFW/ SAM reports of the mussel monitoring partnership program from 2016, 2018, and 2020. The 2016 and 2020 reports are the years before and after the samples we have. Im interested in building a full picture of the scope of the work and how I can add to it as well as build working relationships with some of the partners. 
+
+---
 ### January 6
 
 I started my morning with a meeting with Miranda Bernard, BIMS grant writer. BIMS will be my community partner for my Innovation Grant Application. next I attended our labs science hour so I can get some advice on the innovation grant, as well as the Hall conservation grant application I'd like to submit. After that, we spend some time learning how to make daily posts & commits to our lab notebooks an easier practice. I am now voice dictating my post for the day. Thanks to Steven's beta test of some new tech. 🎉 Exciting!

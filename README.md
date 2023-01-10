@@ -6,6 +6,16 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 9
+
+Lab meeting today was our standard biweekly DEI meeting. I will have Sam look over my order for digital calipers (for the mussel work) and submit. Other lab focused work was on a bit of map/ locaiton based coding and reading foundational papers about *Mytilus* sp. response to environmental change. 
+
+---
+### January 8
+
+Laid back Sunday reading that wrapped up the WDFW/ SAM reports from the mussel monitoring program and read Chapter 10 of the Disordered Cosmos for lab meeting tomorrow.  
+
+---
 ### January 7
 
 Reading was the name of the game today, specifically the WDFW/ SAM reports of the mussel monitoring partnership program from 2016, 2018, and 2020. The 2016 and 2020 reports are the years before and after the samples we have. Im interested in building a full picture of the scope of the work and how I can add to it as well as build working relationships with some of the partners. 

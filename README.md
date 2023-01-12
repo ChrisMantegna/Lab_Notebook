@@ -6,6 +6,10 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 11
+I submitted the order for calipers to TREQ last night, but that was the only tangible work done that may gave crossed the 12am threshold into today. All of my work today centered around the day job, and given the issues at hand it is likely no lab work will be completed tomorrow either. This is not unexpected, but disappointing as my revised schedule (to accommodate both positions) just went into effect and it feels punitive that today was so full of arbitrary but 'urgent' tasks. 
+
+---
 ### January 10
 
 Spent more time working on the map of WDFW mussel retrieval locations, very little progress as everytime I load a package in RStudio I get an error when I attempt to call it. Not sure if it's related to my missing Ububtu platform... will test that theory tomorrow. I closed two issues assigned to me over one of the months that end in -ber...small wins. I attended the Gardell Lab meeting virtually and spent some time chatting with Alison, Celeste, and Lindsay (Bonnie Becker Lab UG) and building a lab use schedule. The most promising thing I did today was meet with Tivon Rice, Professor DXARTS to discuss collaboration with me and the lab for the Innovation Grant Proposal. We brainstormed great ideas and potential to bring science and art together to educate. I was able to meet with Rosalind after lab meeting yesterday and she will be participating with her teaching expertise as well. I am cautiously optimistic that this grant application will be strong and competitive based on the strength of these collabs.

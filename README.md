@@ -6,7 +6,13 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 12
+
+No lab related work done today. I had class and a full day of HFS work prepping for my committee commitments and the community fire drills for tomorrow. 
+
+---
 ### January 11
+
 I submitted the order for calipers to TREQ last night, but that was the only tangible work done that may gave crossed the 12am threshold into today. All of my work today centered around the day job, and given the issues at hand it is likely no lab work will be completed tomorrow either. This is not unexpected, but disappointing as my revised schedule (to accommodate both positions) just went into effect and it feels punitive that today was so full of arbitrary but 'urgent' tasks. 
 
 ---

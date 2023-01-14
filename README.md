@@ -6,9 +6,14 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 14
+
+Saturday is errands/ household tasks day. No lab work today. 
+
+---
 ### January 13
 
-It has been a week! My sole lab accomplishment was scheduling a meeting with Matt for 1/17 to go over respirometry data analysis.
+It has been a week! My sole science accomplishments were attending my accountability meeting with fellow SAFS grad students and scheduling a meeting with Matt for 1/17 to go over respirometry data analysis.
 
 ---
 ### January 12

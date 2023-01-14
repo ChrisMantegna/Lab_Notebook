@@ -6,6 +6,10 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 13
+
+It has been a week! My sole lab accomplishments was scheduling a meeting with Matt for 1/17 to go over respirimetry data analysis.
+---
 ### January 12
 
 No lab related work done today. I had class and a full day of HFS work prepping for my committee commitments and the community fire drills for tomorrow. 

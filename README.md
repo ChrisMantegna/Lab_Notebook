@@ -6,6 +6,10 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 15
+Some progress was made today on the map of the WDFW mussel sites, turns out that I had to install Ubuntu and then reinstall R to get the packages to play nice. Tomorrow I will work out the kinks in the code. My other task was to have the base draft for the Hall Grant ready. Its not totally ready, but the introduction and thesis relation protion are complete while the methods, timeine, and budget need a few go arounds with Steven. I lost a bit of time to the PSEMP (Puget Sound Ecosystem Monitoring Program) site and reports. I believe this information can help inform the oder we process our mussel samples.
+
+---
 ### January 14
 
 Saturday is errands/ household tasks day. No lab work today. 

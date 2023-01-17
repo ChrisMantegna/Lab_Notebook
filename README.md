@@ -1,12 +1,17 @@
 # Daily Lab Notebook
-This is the 'working' lab notebook where daily posts are made to hold me accountable to the practice of daily logging. My full lab notebook can be found HERE. My current projects can be found HERE.
+This is the 'working' lab notebook where daily posts are made to hold me accountable to the practice of daily logging. My full lab notebook can be found [HERE](https://chrismantegna.github.io/).
 Here's to a productive 2023!
 ---
 
 ## January 2023
 
 ---
+### January 16
+
+Marginal progress was made on the Hall Grant Application, much to my disappointment, but thankfully it is a short one. I seem to have stumped myself connecting all of the ecological relevance dots without sounding hokey. No matter what the outcome, by end of day tomorrow I will have a draft to push to Steven for review. I opened a GH issue to get Sam to help me troubleshoot my desktop RStudio app, it will not let me install or call any of the basic programs. I moved over to Raven to work on my WDFW mussel location map and ran into some issues trying to use the "tmap" package. I'll move over to "ggplot2" and try again tomorrow. It seems I jumped the gun when I went to find Puget Sound shape files, I may not need them afterall. Finally, I worked a bit more on the WDFW mussel site report from 2019/2020 to support priority ranking of the samples we'll process. Another less than stellar find was that looking over the respirometry data for our spring mussel experiment we didn't take any tissue weights. That's a minimal bummer for sure, but it would have been a perk.
+---
 ### January 15
+
 Some progress was made today on the map of the WDFW mussel sites, turns out that I had to install Ubuntu and then reinstall R to get the packages to play nice. Tomorrow I will work out the kinks in the code. My other task was to have the base draft for the Hall Grant ready. Its not totally ready, but the introduction and thesis relation protion are complete while the methods, timeine, and budget need a few go arounds with Steven. I lost a bit of time to the PSEMP (Puget Sound Ecosystem Monitoring Program) site and reports. I believe this information can help inform the oder we process our mussel samples.
 
 ---

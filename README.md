@@ -8,12 +8,12 @@ Here's to a productive 2023!
 ---
 ### January 16
 
-Marginal progress was made on the Hall Grant Application, much to my disappointment, but thankfully it is a short one. I seem to have stumped myself connecting all of the ecological relevance dots without sounding hokey. No matter what the outcome, by end of day tomorrow I will have a draft to push to Steven for review. I opened a GH issue to get Sam to help me troubleshoot my desktop RStudio app, it will not let me install or call any of the basic programs. I moved over to Raven to work on my WDFW mussel location map and ran into some issues trying to use the "tmap" package. I'll move over to "ggplot2" and try again tomorrow. It seems I jumped the gun when I went to find Puget Sound shape files, I may not need them afterall. Finally, I worked a bit more on the WDFW mussel site report from 2019/2020 to support priority ranking of the samples we'll process. Another less than stellar find was that looking over the respirometry data for our spring mussel experiment we didn't take any tissue weights. That's a minimal bummer for sure, but it would have been a perk.
+Marginal progress was made on the Hall Grant Application, much to my disappointment, but thankfully it is a short one. I seem to have stumped myself connecting all of the ecological relevance dots without sounding hokey. No matter what the outcome, by end of day tomorrow I will have a draft to push to Steven for review. I opened a GH issue to get Sam to help me troubleshoot my desktop RStudio app, it still will not let me install or call any of the basic programs. I moved over to Raven to work on my WDFW mussel location map and ran into some issues trying to use the "tmap" package. I'll move over to using the "ggplot2" package and try again tomorrow. It seems I jumped the gun when I went to find Puget Sound shape files, I may not need them afterall. Finally, I worked a bit more on the WDFW mussel site report from 2019/2020 to support priority ranking of the samples we'll process. Another less than stellar find was that looking over the respirometry data for our spring mussel experiment we didn't take any tissue weights. That's a minimal bummer for sure, but it would have been a perk.
 
 ---
 ### January 15
 
-Some progress was made today on the map of the WDFW mussel sites, turns out that I had to install Ubuntu and then reinstall R to get the packages to play nice. Tomorrow I will work out the kinks in the code. My other task was to have the base draft for the Hall Grant ready. Its not totally ready, but the introduction and thesis relation protion are complete while the methods, timeine, and budget need a few go arounds with Steven. I lost a bit of time to the PSEMP (Puget Sound Ecosystem Monitoring Program) site and reports. I believe this information can help inform the oder we process our mussel samples.
+Some progress was made today on the map of the WDFW mussel sites, turns out that I had to install Ubuntu and then reinstall R to get the packages to play nice, but there are still some pakcages that just won't load. Tomorrow I will work out the kinks in the code. My other task was to have the base draft for the Hall Grant ready. Its not totally ready, but the introduction and thesis relation protion are complete while the methods, timeine, and budget need a few go arounds with Steven. I lost a bit of time to the PSEMP (Puget Sound Ecosystem Monitoring Program) site and reports. I believe this information can help inform the order we process our mussel samples.
 
 ---
 ### January 14
@@ -33,17 +33,17 @@ No lab related work done today. I had class and a full day of HFS work prepping 
 ---
 ### January 11
 
-I submitted the order for calipers to TREQ last night, but that was the only tangible work done that may gave crossed the 12am threshold into today. All of my work today centered around the day job, and given the issues at hand it is likely no lab work will be completed tomorrow either. This is not unexpected, but disappointing as my revised schedule (to accommodate both positions) just went into effect and it feels punitive that today was so full of arbitrary but 'urgent' tasks. 
+I submitted the order for calipers to TREQ last night, but that was the only tangible work done that may have crossed the 12am threshold into today. All of my work today centered around the day job, and given the issues at hand it is likely no lab work will be completed tomorrow either. This is not unexpected, but disappointing as my revised schedule (to accommodate both positions) just went into effect and it feels punitive that today was so full of arbitrary but 'urgent' tasks. 
 
 ---
 ### January 10
 
-Spent more time working on the map of WDFW mussel retrieval locations, very little progress as everytime I load a package in RStudio I get an error when I attempt to call it. Not sure if it's related to my missing Ububtu platform... will test that theory tomorrow. I closed two issues assigned to me over one of the months that end in -ber...small wins. I attended the Gardell Lab meeting virtually and spent some time chatting with Alison, Celeste, and Lindsay (Bonnie Becker Lab UG) and building a lab use schedule. The most promising thing I did today was meet with Tivon Rice, Professor DXARTS to discuss collaboration with me and the lab for the Innovation Grant Proposal. We brainstormed great ideas and potential to bring science and art together to educate. I was able to meet with Rosalind after lab meeting yesterday and she will be participating with her teaching expertise as well. I am cautiously optimistic that this grant application will be strong and competitive based on the strength of these collabs.
+Spent more time working on the map of WDFW mussel retrieval locations, very little progress as everytime I load a package in RStudio I get an error when I attempt to call it. Not sure if it's related to my missing Ubuntu platform... will test that theory tomorrow. I closed two issues assigned to me over one of the months that end in -ber...small wins. I attended the Gardell Lab meeting virtually and spent some time chatting with Alison, Celeste, and Lindsay (Bonnie Becker Lab UG) and building a lab use schedule. The most promising thing I did today was meet with Tivon Rice, Professor DXARTS to discuss collaboration with me and the lab for the Innovation Grant Proposal. We brainstormed great ideas and potential to bring science and art together to educate. I was able to meet with Rosalind after the Roberts lab meeting yesterday and she will be participating with her teaching expertise as well. I am cautiously optimistic that this grant application will be strong and competitive based on the strength of these collabs.
 
 ---
 ### January 9
 
-Lab meeting today was our standard biweekly DEI meeting. I will have Sam look over my order for digital calipers (for the mussel work) and submit. Other lab focused work was on a bit of map/ locaiton based coding and reading foundational papers about *Mytilus* sp. response to environmental change. 
+Lab meeting today was our standard biweekly DEI meeting. I will have Sam look over my order for digital calipers (for the mussel work) and submit. Other lab focused work was on a bit of map/ location based coding and reading foundational papers about *Mytilus* sp. response to environmental change. 
 
 ---
 ### January 8
@@ -58,7 +58,7 @@ Reading was the name of the game today, specifically the WDFW/ SAM reports of th
 ---
 ### January 6
 
-I started my morning with a meeting with Miranda Bernard, BIMS grant writer. BIMS will be my community partner for my Innovation Grant Application. next I attended our labs science hour so I can get some advice on the innovation grant, as well as the Hall conservation grant application I'd like to submit. After that, we spend some time learning how to make daily posts & commits to our lab notebooks an easier practice. I am now voice dictating my post for the day. Thanks to Steven's beta test of some new tech. 🎉 Exciting!
+I started my morning with a meeting with Miranda Bernard, BIMS grant writer. BIMS will be my community partner for my Innovation Grant Application. Next I attended our labs science hour so I can get some advice on the innovation grant, as well as the Hall conservation grant application I'd like to submit. After that, we spend some time learning how to make daily posts & commits to our lab notebooks an easier practice. I am now voice dictating my post for the day. Thanks to Steven's beta test of some new tech. 🎉 Exciting!
 
 ---
 ### January 5

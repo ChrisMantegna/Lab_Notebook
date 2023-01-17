@@ -9,6 +9,7 @@ Here's to a productive 2023!
 ### January 16
 
 Marginal progress was made on the Hall Grant Application, much to my disappointment, but thankfully it is a short one. I seem to have stumped myself connecting all of the ecological relevance dots without sounding hokey. No matter what the outcome, by end of day tomorrow I will have a draft to push to Steven for review. I opened a GH issue to get Sam to help me troubleshoot my desktop RStudio app, it will not let me install or call any of the basic programs. I moved over to Raven to work on my WDFW mussel location map and ran into some issues trying to use the "tmap" package. I'll move over to "ggplot2" and try again tomorrow. It seems I jumped the gun when I went to find Puget Sound shape files, I may not need them afterall. Finally, I worked a bit more on the WDFW mussel site report from 2019/2020 to support priority ranking of the samples we'll process. Another less than stellar find was that looking over the respirometry data for our spring mussel experiment we didn't take any tissue weights. That's a minimal bummer for sure, but it would have been a perk.
+
 ---
 ### January 15
 

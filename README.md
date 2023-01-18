@@ -6,6 +6,11 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 17
+
+Started the morning with a BIMS meeting. Awesome to start your day finding out your program is being funded, your expenses are being covered, and you've got a letter of support coming your way. Can't beat a meeting with Tiara! Follwed it up with a timely lesson in pedagogy and lesson planning with Rosalind - easy way to get hyped up about teaching some intertidal ecology content. Along the way I had to work because I was the COVID Iso/ Quarantine point person for Res Life today. Continuing on the productivity meeting train I met with my Accountability Group (FAB) to write for just over an hour - I was not as productive here as I could be. I'm finding it difficult to focus on writing later in the day and I have to get out of that. From there I wrapped up my HFS work day and went back to some lab tasks after dinner. End of day task was to complete the ranking of contaminant profiles of the WDFW sampled sites. After putting all of the 2018 and 2020 data together it is still difficult to make a good ranking system, so layering in location will help.
+
+---
 ### January 16
 
 Marginal progress was made on the Hall Grant Application, much to my disappointment, but thankfully it is a short one. I seem to have stumped myself connecting all of the ecological relevance dots without sounding hokey. No matter what the outcome, by end of day tomorrow I will have a draft to push to Steven for review. I opened a GH issue to get Sam to help me troubleshoot my desktop RStudio app, it still will not let me install or call any of the basic programs. I moved over to Raven to work on my WDFW mussel location map and ran into some issues trying to use the "tmap" package. I'll move over to using the "ggplot2" package and try again tomorrow. It seems I jumped the gun when I went to find Puget Sound shape files, I may not need them afterall. Finally, I worked a bit more on the WDFW mussel site report from 2019/2020 to support priority ranking of the samples we'll process. Another less than stellar find was that looking over the respirometry data for our spring mussel experiment we didn't take any tissue weights. That's a minimal bummer for sure, but it would have been a perk.

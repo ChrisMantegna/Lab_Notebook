@@ -6,6 +6,11 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 18
+
+Finally wrapped up the Innovation grant draft. Finished my readings for BIOL 505, and put down the deposit for my next diving trip. Enough for today.
+
+---
 ### January 17
 
 Started the morning with a BIMS meeting. Awesome to start your day finding out your program is being funded, your expenses are being covered, and you've got a letter of support coming your way. Can't beat a meeting with Tiara! Follwed it up with a timely lesson in pedagogy and lesson planning with Rosalind - easy way to get hyped up about teaching some intertidal ecology content. Along the way I had to work because I was the COVID Iso/ Quarantine point person for Res Life today. Continuing on the productivity meeting train I met with my Accountability Group (FAB) to write for just over an hour - I was not as productive here as I could be. I'm finding it difficult to focus on writing later in the day and I have to get out of that. From there I wrapped up my HFS work day and went back to some lab tasks after dinner. End of day task was to complete the ranking of contaminant profiles of the WDFW sampled sites. After putting all of the 2018 and 2020 data together it is still difficult to make a good ranking system, so layering in location will help.

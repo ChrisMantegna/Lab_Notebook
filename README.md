@@ -28,7 +28,7 @@ Spent the day in the lab office after wrapping up some HFS tasks. Spent lunch wi
 ---
 ### January 18
 
-Finally wrapped up the Innovation grant draft. Finished my readings for BIOL 505, and put down the deposit for my next diving trip. Enough for today.
+Finally wrapped up the Innovation grant draft. Finished my readings for BIOL 505, and put down the deposit for my next diving trip. I was able to get back in touch with Andy James and set a meeting to discuss a data set that may be interesting to me. Steven will be away, but Alison may be available to join. Definitely cool. 
 
 ---
 ### January 17

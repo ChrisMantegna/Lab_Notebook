@@ -6,6 +6,26 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 22
+
+Spent today reviewing both the Innovation Grant and the Hall Grant proposals. I was able to secure Sea Potential as a second community partner for the Innovation Grant and set a meeting with them for Tuesday morning to go over their contribution ideas to the grant. I wrapped up the grant edits and prepared to submit the Hall. I started reading through the first two papers for my teaching course and went to work on some writing/ lesson planning for my summer program. After a quick check-in with Steven i submitted the Hall and wrapped up the day planning for the week.
+
+---
+### January 21
+
+At the wee hours of the morning I got the Hall draft over to Steven. I checked in around lunchtime to see only minor edits and kept going about my Satuday errands and household tasks. 
+
+---
+### January 20
+
+Started the day with my FAB accountability group, continued onto the lab-wide lunch with the prosepective grad students, followed that up with an informal metoring moment with a freshman marine biology student, and wrapped up working hours in the lab office working with Zach to come up with a module for my summer program. We're trying to work in some remote sensing/ drone mapping/ GIS stuff. This will be awesome! I wrapped up the day by getting the Hall draft finished and to Steven at a ridiculous hour that technically qualifies for 1/21/23.
+
+---
+### January 19
+
+Spent the day in the lab office after wrapping up some HFS tasks. Spent lunch with Zach, Olivia, and Matt (at the end). Went on to meet with Marco Hatch for a 30 minute 1v1. We spent time talking about what he's reading, how to integrate identity into work without burning out, and what the future of shellfish fisheries may look like. Following that, Zach and I were able to meet with prospective Roberts Lab students to chat informally and answer any of their questions, I believe a few of them would make a great match for the lab. I wrapped up the day by attending the Bevans Seminar with Marco Hatch as the speaker, it was interesting and thought provoking - especially when thinking about the 'boundary spanners' in our lives and work.
+
+---
 ### January 18
 
 Finally wrapped up the Innovation grant draft. Finished my readings for BIOL 505, and put down the deposit for my next diving trip. Enough for today.

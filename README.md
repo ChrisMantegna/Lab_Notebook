@@ -6,9 +6,29 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 26
+
+Today is the day for the Innovation Grant Letter of Intention submission. Everyone has had a chance to review the edits and application, both letters of support are in, and submission is ready to go after noon. 
+
+---
+### January 25
+
+The vast majority of work is HFS centric. We are in the review process for student leader applications for Spring training and Fall start. The positive problem of having a few hundred application is the time it takes to review them! I knocked out the Core Ideas assignment and finalized the updates to the Innovation Grant LOI, and even managed to get in some reading for the intertidal program.
+
+---
+### January 24
+
+Tuesdays are remote days where I can be found in the lab office vice my HFS office. The morning was meeting heavy, one of which was with the Sea Potential crew. It was great to have both the founders, Savannah and Ebony, as well as my former DDCSP mentee together future planning with me! I'm so glad to have them on board with the Innovation Grant. Moving through the day I worked on summer program content and a list of requests from the creative team at BIMS for the summer program. Afternoon writing accountability with the FAB crew was awesome - always grateful to spend time with SAFS grad students that are more advanced in their path than I am. 
+
+---
+### January 23
+
+Started the day with a co-writing session with a friend from Cornell, we will be writing Monday and Wednesday mornings for the next quarter. Led lab meeting DEI session this morning, we had a great discussion about place and knowing as valuable knowledge sets that can work with existing scientific knowledge instead of the current antagonistic framing. Spent some time working on my BIOL 505 Core Concepts deliverable, finding resources in professional organization pages is more difficult than I anticipated.
+
+---
 ### January 22
 
-Spent today reviewing both the Innovation Grant and the Hall Grant proposals. I was able to secure Sea Potential as a second community partner for the Innovation Grant and set a meeting with them for Tuesday morning to go over their contribution ideas to the grant. I wrapped up the grant edits and prepared to submit the Hall. I started reading through the first two papers for my teaching course and went to work on some writing/ lesson planning for my summer program. After a quick check-in with Steven i submitted the Hall and wrapped up the day planning for the week.
+Spent today reviewing both the Innovation Grant and the Hall Grant proposals. I was able to secure Sea Potential as a second community partner for the Innovation Grant and set a meeting with them for Tuesday morning to go over their contribution ideas to the grant. I wrapped up the grant edits and prepared to submit the Hall. I started reading through the first two papers for my teaching course and went to work on some writing/ lesson planning for my summer program. After a quick check-in with Steven I submitted the Hall and wrapped up the day planning for the week.
 
 ---
 ### January 21

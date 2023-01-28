@@ -6,9 +6,14 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 27
+
+It is a hard one today as I work to still process the hate crimes and gun violence of the year knowing that brutal police footage will be released tonight. I am making it a point to avoid social media so I don't witness the body camera footage, but the anxiety of holding the situation and avoiding the evidence is making it difficult to focus. Much of today has been spent on small tasks. The FAB weekly check-in was lovely and helpful when thinking about the milestones in the degree process.
+
+---
 ### January 26
 
-Today is the day for the Innovation Grant Letter of Intention submission. Everyone has had a chance to review the edits and application, both letters of support are in, and submission is ready to go after noon. 
+Today is the day for the Innovation Grant Letter of Intention submission. Everyone has had a chance to review the edits and application, both letters of support are in, and submission is in! It feels good to get this into the hands of the folks who make the decisions. The rest of today has been split three ways between (1) BIOL 505 work on my core ideals for the classroom, (2) outlining some teaching content for the summer REU, and (3) HFS student leader application evaluation. 
 
 ---
 ### January 25

@@ -6,6 +6,22 @@ Here's to a productive 2023!
 ## January 2023
 
 ---
+### January 31
+
+---
+### January 30
+
+---
+### January 29
+
+Light work today. I completed the reading for BIOL 505 and did a bit of work framing out the program for FHL/ DDCSP this summer. 
+
+---
+### January 28
+
+Saturdays are for errands and some work on the Yellow Island webpage. Really only put together the categories of participants and the Spotify Playlist to add.
+
+---
 ### January 27
 
 It is a hard one today as I work to still process the hate crimes and gun violence of the year knowing that brutal police footage will be released tonight. I am making it a point to avoid social media so I don't witness the body camera footage, but the anxiety of holding the situation and avoiding the evidence is making it difficult to focus. Much of today has been spent on small tasks. The FAB weekly check-in was lovely and helpful when thinking about the milestones in the degree process.

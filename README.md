@@ -12,6 +12,7 @@ Here's to a productive 2023!
 ### January 30
 
 Monday morning writing accountability group to kick off the week, followed by lab meeting and picking up my new digital calipers. Most of today was devoted to HFS work, but I did manage to put together a tentative schedule of collaborators for the DDCSP folks. I am excited! We have Tiara locked in, a 3 phase wellness series, and a week of data analysis stuff coming together. I am happy to see some things coming together with the best possible timeline to make it engaging and low lift for folks giving their time and expertise. Stoked!
+
 ---
 ### January 29
 

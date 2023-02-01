@@ -8,6 +8,8 @@ Here's to a productive 2023!
 ---
 ### January 31
 
+Minimal lab work today, had the last round of SL applications due today. I did have a meeting with my reading partner in BIOL 505, a FAB writing accountability session, and put together my learning objectives and outcomes for reciew by Jose for tomorrow. 
+
 ---
 ### January 30
 

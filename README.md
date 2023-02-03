@@ -4,18 +4,24 @@ Here's to a productive 2023!
 ---
 
 ## February 2023
+---
 
 ---
+
+### February 5
+
+---
+### February 4
 
 ---
 ### February 3
 
-
+Friday. Writing accountability group this morning is lovely as always, so happy to have shifted off of Mondays. Following up with FAB acountability group is a great way to take inventory of the week and plan for next week. The rest of the day is dedicated to HFS work. 
 
 ---
 ### February 2
 
-
+Thursday. BIOL 505 kicked off the day with great discussions about how teachers can and cannot influence class discussion to 'clicker questions', things like Poll Everywhere. The most interesting thing to come out of the reading is the level at which students can teach each other in upper-division courses, it was very cool to see. Even though today, as most Thursdays, was a heavy HFS day I did manage to sneak in a meeting with Andy James to chat all things ecotox. It was awesome, he has a bunch of data sets/ tissue samples that can work into some cool collaborative projects moving forward.
 
 ---
 ### February 1

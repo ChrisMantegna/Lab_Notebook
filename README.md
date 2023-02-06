@@ -10,8 +10,12 @@ Here's to a productive 2023!
 
 ### February 5
 
+Sunday. Read Chapter 13 of The Disordered Cosmos for tomorrow's lab meeting. 
+
 ---
 ### February 4
+
+Saturday. Pike Place Market, household tasks & errands. 
 
 ---
 ### February 3

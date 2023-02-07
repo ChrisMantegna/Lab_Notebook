@@ -35,6 +35,7 @@ Here's to a productive 2023!
 ### February 6
 
 Monday. Attended lab meeting, great discussions about the political nature of science and science funding. Checked in with Alison via a Slack conversation and it looks like our work will begin at the end of Winter Quarter. 
+
 ---
 
 ### February 5

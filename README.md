@@ -8,6 +8,35 @@ Here's to a productive 2023!
 
 ---
 
+### February 12
+
+---
+
+### February 11
+
+---
+
+### February 10
+
+---
+
+### February 9
+
+---
+
+### February 8
+
+---
+
+### February 7
+
+---
+
+### February 6
+
+Monday. Attended lab meeting, great discussions about the political nature of science and science funding. Checked in with Alison via a Slack conversation and it looks like our work will begin at the end of Winter Quarter. 
+---
+
 ### February 5
 
 Sunday. Read Chapter 13 of The Disordered Cosmos for tomorrow's lab meeting. 

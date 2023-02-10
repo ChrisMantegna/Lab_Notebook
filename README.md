@@ -22,13 +22,19 @@ Here's to a productive 2023!
 
 ### February 9
 
+Thurday. This was a day to just put out fires in all of the realms and hope that Friday sees progress since today saw none.
+
 ---
 
 ### February 8
 
+Wednesday. Started the day with my morning accountability hour, it is turning into a task completion hour more than a writing hour but the tasks are all lab/ science related so I guess that is what we need right now. My next meeting was an informational meeting re: UW graduate programs chat with a a friend from BWEEMS. I had a logistics meeting with Matt for the Yellow Island project, and ended the workday with my Black Grad Student Wellness group.
+
 ---
 
 ### February 7
+
+Tuesday. Attended Gardell lab meeting and walked away with a few action items for the lab website. Followed that with the FAB writing accountability hour and my BIOL 505 reading partner check-in.
 
 ---
 

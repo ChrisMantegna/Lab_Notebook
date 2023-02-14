@@ -6,23 +6,55 @@ Here's to a productive 2023!
 ## February 2023
 ---
 
+### February 18
+
+---
+
+### February 17
+
+---
+
+### February 16
+
+---
+
+### February 15
+
+---
+
+### February 14
+
+Tuesday. I started today wrapping up some HFS work that was a carryover from yesterday. After that I met with Ruth Sofield, an aquatic toxicologist at WWU. She is dope! I have some resources, so reading, and a standing monthly meeting to check-in re: my progress. I am excited. The rest of today is delivering the map error coding doc and looking into the resources Ruth shared.
+
+---
+
+### February 13
+
+Monday. Lab meeting yielded a chance for us all to find out we don't know how to create a map in R. I started compiling my mistakes so everyone can see them and try to help me create one. After that, I had my monthly check-in with Julia. It was a great reminder that I have to put my research work out there while simultaneously working to figure out where I want to fit in. I wrapped up the day going over some logistics for a spring visit to Yellow Island with Matt. I'm lending an extra pair of hands to him over the weekend that will experience a high volume of visitors.
+
 ---
 
 ### February 12
+
+Sunday. I did some ecotox reading, trying to figure a scope or direction for my whole grad path. Definitely feeling internal pressure to knock out some milestones. Completed the Tidy Tuesday exercise for lab meeting on Monday.
 
 ---
 
 ### February 11
 
+Saturday. Errands & household things.
+
 ---
 
 ### February 10
+
+Friday. Writing group, accountability group, and more HFS work.
 
 ---
 
 ### February 9
 
-Thurday. This was a day to just put out fires in all of the realms and hope that Friday sees progress since today saw none.
+Thurday. This was a day to just put out fires in all of the realms and hope that Friday sees progress since today saw none. I did go to Chuck D's public lecture and it was awesome.
 
 ---
 

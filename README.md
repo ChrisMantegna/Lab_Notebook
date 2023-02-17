@@ -16,9 +16,12 @@ Here's to a productive 2023!
 
 ### February 16
 
+
 ---
 
 ### February 15
+
+Wednesday. Kicked off the morning with my writing accountability group and was able to knock out some big narrative pieces for the Yellow Island site. Had my BIOL 505 reading meeting and send a few emails to professors to shadow their classes for my teaching evaluations. Finally, I ended the day on a high note as the Innovation Grant LOI was encouraged to submit a full proposal through Earth Lab. Very, very cool.
 
 ---
 

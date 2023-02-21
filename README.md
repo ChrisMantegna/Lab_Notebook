@@ -5,23 +5,55 @@ Here's to a productive 2023!
 
 ## February 2023
 ---
+### February 24
+
+---
+
+### February 23
+
+---
+
+### February 22
+
+---
+
+### February 21
+
+---
+
+### February 20
+
+Monday. I am grateful for the three-day weekend so I could take a real break and get some project planning done. I am not where I want to be right now, so I spent the day reading cool papers and mapping out the major projects I have in the air as well as projected some plans for the remainder of the year.
+
+---
+
+### February 19
+
+Sunday. Nothing accomplished today.
+
+---
 
 ### February 18
+
+Saturday. Nothing accomplished today.
 
 ---
 
 ### February 17
 
+Friday. My morning writing accountability session and Gardell lab website write-ups were the only lab related tasks completed today. My HFS job had a few major issues that required my attention today.
+
 ---
 
 ### February 16
 
+Thursday. Started the day with an awesome BIOL 505 session that helped me think about the power of belonging and active- learning models. I had a meeting with my Assistant Director in HFS to work on a summer plan that either lets me take a leave from my HFS role, or creates a part time position while I'm offsite. I wrapped up the day watching the [Toxicology and Societies](https://cenv.wwu.edu/toxicology-and-societies-speaker-series) talk given by Dr. Markus Hecker
 
 ---
 
 ### February 15
 
-Wednesday. Kicked off the morning with my writing accountability group and was able to knock out some big narrative pieces for the Yellow Island site. Had my BIOL 505 reading meeting and send a few emails to professors to shadow their classes for my teaching evaluations. Finally, I ended the day on a high note as the Innovation Grant LOI was encouraged to submit a full proposal through Earth Lab. Very, very cool.
+Wednesday. Kicked off the morning with my writing accountability group and was able to knock out some big narrative pieces for the Yellow Island site. Had my BIOL 505 reading meeting and sent a few emails to professors to shadow their classes for my teaching evaluations. I had an awesome check-in with Yaamini where we chatted about the master's proposal process and project planning. Finally, I ended the day on a high note as our Innovation Grant LOI was encouraged to submit a full proposal through EarthLab. Very, very cool.
 
 ---
 

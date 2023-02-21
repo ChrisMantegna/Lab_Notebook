@@ -23,7 +23,7 @@ Here's to a productive 2023!
 
 ### February 20
 
-Monday. I am grateful for the three-day weekend so I could take a real break and get some project planning done. I am not where I want to be right now, so I spent the day reading cool papers and mapping out the major projects I have in the air as well as projected some plans for the remainder of the year.
+Monday. I am grateful for the three-day weekend so I could take a real break and get some project planning done. I am not where I want to be right now, so I spent the day reading cool papers and mapping out the major projects I have in the air as well as projected some plans for the remainder of the year. I finished by completing the applicant review for my FHL REU and picking out my top 3-5 candidates. This is exciting!
 
 ---
 

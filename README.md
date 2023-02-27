@@ -4,20 +4,47 @@ Here's to a productive 2023!
 ---
 
 ## February 2023
+### February 28
+
+Tuesday.
+
+---
+### February 27
+
+Monday. 
+
+---
+### February 26
+
+Sunday. Planning for March to maximize late Spring and Summer opportunities. 
+
+---
+### February 25
+
+Saturday. Errands, Questlove & Kamonegi.
+
 ---
 ### February 24
+
+Friday. Writing hour, accountability group, and clarification of next steps during Science Hour helped me start to drill down on an in silico project.
 
 ---
 
 ### February 23
 
+Thursday. BIOL 505 reading conversations on the role of teaching in college faculty positions. I attended the monthly meeting of the PSEMP Ecotox workgroup. It was cool to hear new research on SRKWs and the maternal transfer of toxins via umbillical cord. The rest of the day was HFS work.
+
 ---
 
 ### February 22
 
+Wednesday. Writing hour, BIOL reading meeting, and Black Grad Group.
+
 ---
 
 ### February 21
+
+Tuesday. Lab DEI meeting, we chose the next book as Invisible Women. I had a meeting with Steven later in the day to discuss balancing Yellow Island/ FHL REU work and my own research. Followed up with the FAB writing accountability group where I was able to knock out the discussion prompts for next week's lab meeting where we will discuss our Literature Review and Writing Processes.
 
 ---
 

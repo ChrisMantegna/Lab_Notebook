@@ -6,12 +6,12 @@ Here's to a productive 2023!
 ## February 2023
 ### February 28
 
-Tuesday.
+Tuesday. I did my first teaching observation in Jennfer Ruesink's Introductory Biology class, met with my MB undergrad, attended the BIMS ICB Issue meeting, and wrapped up by spending some time writing with the FAB accountability ladies.
 
 ---
 ### February 27
 
-Monday. 
+Monday. Lab meeting about writing because writing is the best! I also attended the seminar for the first of four candidates for the COastal Ecologist position in SAFS. 
 
 ---
 ### February 26

@@ -145,34 +145,34 @@ Wednesday.
 
 ### March 7
 
-Tuesday. 
+Tuesday. Finishing the first draft for the Innovation Grant and getting that out to the group for review. Catching up on HFS work and wrapping up some family tasks.
 
 ---
 
 ### March 6
 
-Monday.
+Monday. Family obligations.
 
 ---
 
 ### March 5
 
-Sunday. 
+Sunday. Family obligations.
 
 ---
 ### March 4
 
-Saturday. 
+Saturday. Family obligations.
 
 ---
 ### March 3
 
-Friday.
+Friday. Writing hour was the only thing that went to plan today. The rest of my day was putting out fires for the day job and facilitating the BIPOC Affinity Space to debrief from the DEI session the day before.
 
 ---
 ### March 2
 
-Thursday. 
+Thursday. The BIOL 505 Panel was outstanding. Representatives from R1s, Community College, Industry/ start-ups, and research on pedagogy in WA state all spoke to us about what it means to be an effective educator. Followed that with a successful DEI session in the weekly RLT meeting, I was encouraged to see the level of participation in a program my colleagues and I have worked hard to put together. After lunch with my labmates I held the first Innovation Grant planning meeting, it was a whirlwind 30 minutes but super productive. We set milestones for the upcoming application pieces and now it's time to knock it out. I ended the day observing Ken Sebens Invertebrate Zoology and attending to an HFS issue.
 
 ---
 ### March 1

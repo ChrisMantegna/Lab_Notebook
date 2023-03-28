@@ -23,75 +23,75 @@ Wednesday.
 ---
 ### March 28
 
-Tuesday.
+Tuesday. 
 
 ---
 ### March 27
 
-Monday.
+Monday. Attempted Celeste's Tidy Tuesday exercise but didn't get past the data review and base histograms. I didn't have internet at home until this afternoon, so getting anything done after the move was a bit too diffiult. I did attend teh second part of a 3 part eDNA webinar series. Tonight's content was about how to interpret results and verify your survey design & assay validations.
 
 ---
 ### March 26
 
-Sunday.
+Sunday. Elite 8 baby! NCAA Women's basketball is on fire right now & I am so happy to see it.
 
 ---
 ### March 25
 
-Saturday. 
+Saturday. More Sweet 16 action at Cliamte pLedge and unpacking.
 
 ---
 ### March 24
 
-Friday. 
+Friday. Writing hour with Taylor and a bit of literature search for the Blue Carbon synthesis paper I am part of with soem BWEEMS members. Very cool project with a reasonable timeline of work. Ended the day with some NCAAW Sweet 16 action at Climate Pledge.
 
 ---
 
 ### March 23
 
-Thursday. 
+Thursday. Helped the kid finish packing and completed DEI work for upcoming 
 
 ---
 
 ### March 22
 
-Wednesday. 
+Wednesday. Moving day! 
 
 ---
 
 ### March 21
 
-Tuesday. 
+Tuesday. Picked up the keys to my new place and 
 
 ---
 
 ### March 20
 
-Monday. 
+Monday. Lab meeting with DEI focus on Chapter 2 of Invisible Women, we had a really interesting conversation about the impact of oversight in small decisions. Spring Break starts today, so I am focusing on moving, the HFS job, and getting my Spring Quarter Schedule set. I spent the evening in part 1 of a 3 part series on eDNA technologies and uses lead by EnviroDNA, an Australian company.
 
 ---
 
 ### March 19
 
-Sunday. 
+Sunday. Packing.
 
 ---
 
 ### March 18
 
-Saturday. 
+Saturday. Packing.
 
 ---
 
 ### March 17
 
-Friday. 
+Friday. Writing hour, FAB Accountability meeting, and a little light mussel reading!
 
 ---
 
 ### March 16
 
-Thursday. 
+Thursday. Innovation grant submitted - Rosalind is the GOAT. I am pleased with the package we put together.
 
 ---
 
@@ -103,7 +103,7 @@ Wednesday.
 
 ### March 14
 
-Tuesday. 
+Tuesday. Attended the GPA/ GPC meeting virtually. Nothing new came up, more involvemnt with learning/ supporting our learning with tech drop-in hours was a suggestion that seemed to gain the most traction.
 
 ---
 
@@ -127,19 +127,19 @@ Saturday.
 
 ### March 10
 
-Friday. 
+Friday. Writing accountability, FAB accountability, and the Innovation grant budget meeting with Steven. 
 
 ---
 
 ### March 9
 
-Thurday. 
+Thurday. BIOL 505 was the only realted task. HFS work dominated today.
 
 ---
 
 ### March 8
 
-Wednesday. 
+Wednesday. Watched the White House Forum on Campus & Community Scale Climate Change Solutions, Dean Tolstoy gave the closing remarks. It was interesting to see the lack of diversity in the panels as well as in the solutions. I don't believe the correct amount of time was allocated to a true conversation about this.
 
 ---
 
@@ -151,7 +151,7 @@ Tuesday. Finishing the first draft for the Innovation Grant and getting that out
 
 ### March 6
 
-Monday. Family obligations.
+Monday. Family obligations. Attended the Seminar for Coastal Ecologist candidate Josh Smith.
 
 ---
 

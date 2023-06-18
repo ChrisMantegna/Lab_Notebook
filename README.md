@@ -3,180 +3,169 @@ This is the 'working' lab notebook where daily posts are made to hold me account
 Here's to a productive 2023!
 ---
 
-## March 2023
+## June 2023
 ---
 
-### March 31
+---
+### June 30
 
-Friday.
 
 ---
-### March 30
+### June 29
 
-Thursday.
 
----
-### March 29
-
-Wednesday.
 
 ---
-### March 28
-
-Tuesday. 
-
----
-### March 27
-
-Monday. Attempted Celeste's Tidy Tuesday exercise but didn't get past the data review and base histograms. I didn't have internet at home until this afternoon, so getting anything done after the move was a bit too diffiult. I did attend teh second part of a 3 part eDNA webinar series. Tonight's content was about how to interpret results and verify your survey design & assay validations.
+### June 28
+ 
 
 ---
-### March 26
+### June 27
 
-Sunday. Elite 8 baby! NCAA Women's basketball is on fire right now & I am so happy to see it.
 
----
-### March 25
-
-Saturday. More Sweet 16 action at Cliamte pLedge and unpacking.
 
 ---
-### March 24
+### June 26
 
-Friday. Writing hour with Taylor and a bit of literature search for the Blue Carbon synthesis paper I am part of with soem BWEEMS members. Very cool project with a reasonable timeline of work. Ended the day with some NCAAW Sweet 16 action at Climate Pledge.
+
+
+---
+### June 25
+
+
+
+---
+### June 24
+
+
 
 ---
 
-### March 23
+### June 23
 
-Thursday. Helped the kid finish packing and completed DEI work for upcoming 
 
----
-
-### March 22
-
-Wednesday. Moving day! 
 
 ---
 
-### March 21
+### June 22
 
-Tuesday. Picked up the keys to my new place and 
 
----
-
-### March 20
-
-Monday. Lab meeting with DEI focus on Chapter 2 of Invisible Women, we had a really interesting conversation about the impact of oversight in small decisions. Spring Break starts today, so I am focusing on moving, the HFS job, and getting my Spring Quarter Schedule set. I spent the evening in part 1 of a 3 part series on eDNA technologies and uses lead by EnviroDNA, an Australian company.
 
 ---
 
-### March 19
+### June 21
 
-Sunday. Packing.
 
----
-
-### March 18
-
-Saturday. Packing.
 
 ---
 
-### March 17
+### June 20
 
-Friday. Writing hour, FAB Accountability meeting, and a little light mussel reading!
-
----
-
-### March 16
-
-Thursday. Innovation grant submitted - Rosalind is the GOAT. I am pleased with the package we put together.
 
 ---
 
-### March 15
+### June 19
 
-Wednesday. 
-
----
-
-### March 14
-
-Tuesday. Attended the GPA/ GPC meeting virtually. Nothing new came up, more involvemnt with learning/ supporting our learning with tech drop-in hours was a suggestion that seemed to gain the most traction.
 
 ---
 
-### March 13
+### June 18
+
+
+---
+
+### June 17
+
+Saturday. I took some REU students to tour the Hodin Lab where they are breeding pycnopodia to support their repopulation in Salish. Did some work on the DDCSP & REU content for next week. I scheduled 5 of the 6 Guest Scientist spots and put together the platforms and sites we'll use for the duration of the program. Personally I researched the Margaret A Davisdson Fellowship throug NOAA and the NSF GEOHealth INTERN open call for potential applications. Finally, I started a Teaching 101 course where we learn Hybrid classroom skills. 
+
+---
+
+### June 16
+
+Friday. First field day of the summer. 
+
+---
+
+### June 15
+
+
+
+---
+
+### June 14
+
+Tuesday.
+
+---
+
+### June 13
 
 Monday. 
 
 ---
 
-### March 12
+### June 12
 
-Sunday. 
+Monday.
 
 ---
 
-### March 11
+### June 11
+
+Sunday. Watched Sue Bird's jersey retirement and caught a ferry to FHL for the summer.
+
+---
+
+### June 10
 
 Saturday.
 
 ---
 
-### March 10
+### June 9
 
-Friday. Writing accountability, FAB accountability, and the Innovation grant budget meeting with Steven. 
-
----
-
-### March 9
-
-Thurday. BIOL 505 was the only realted task. HFS work dominated today.
+Friday.
 
 ---
 
-### March 8
+### June 8
 
-Wednesday. Watched the White House Forum on Campus & Community Scale Climate Change Solutions, Dean Tolstoy gave the closing remarks. It was interesting to see the lack of diversity in the panels as well as in the solutions. I don't believe the correct amount of time was allocated to a true conversation about this.
-
----
-
-### March 7
-
-Tuesday. Finishing the first draft for the Innovation Grant and getting that out to the group for review. Catching up on HFS work and wrapping up some family tasks.
 
 ---
 
-### March 6
+### June 7
 
-Monday. Family obligations. Attended the Seminar for Coastal Ecologist candidate Josh Smith.
+
+
+---
+
+### June 6
+
+
 
 ---
 
-### March 5
+### June 5
 
-Sunday. Family obligations.
 
----
-### March 4
-
-Saturday. Family obligations.
 
 ---
-### March 3
+### June 4
 
-Friday. Writing hour was the only thing that went to plan today. The rest of my day was putting out fires for the day job and facilitating the BIPOC Affinity Space to debrief from the DEI session the day before.
 
----
-### March 2
-
-Thursday. The BIOL 505 Panel was outstanding. Representatives from R1s, Community College, Industry/ start-ups, and research on pedagogy in WA state all spoke to us about what it means to be an effective educator. Followed that with a successful DEI session in the weekly RLT meeting, I was encouraged to see the level of participation in a program my colleagues and I have worked hard to put together. After lunch with my labmates I held the first Innovation Grant planning meeting, it was a whirlwind 30 minutes but super productive. We set milestones for the upcoming application pieces and now it's time to knock it out. I ended the day observing Ken Sebens Invertebrate Zoology and attending to an HFS issue.
 
 ---
-### March 1
+### June 3
 
-Wednesday. Kicked off with writing hour, followed up with panel question generation with my BIOL 505 partner, completed two of the assigned EH&S trainings required to do work in the Gardell Lab, moved into HFS work, attended the seminar for the second of four Coastal Ecologist positions, and wrapped up the day trying to make my lab notebook cool.
+
+---
+### June 2
+
+
+
+---
+### June 1
+
+
 
 ---
